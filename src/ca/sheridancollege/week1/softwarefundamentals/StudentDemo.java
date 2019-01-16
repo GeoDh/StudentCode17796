@@ -65,8 +65,8 @@ public class StudentDemo
      * 
      * @param program sets student program
      */
-    public void setProgram(String program) {
-        this.program = program;
+    public void setProgram(String givenProgram) {
+        givenProgram = program;
     }
 
     /**
