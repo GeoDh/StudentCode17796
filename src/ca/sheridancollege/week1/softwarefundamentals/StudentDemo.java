@@ -67,8 +67,9 @@ public class StudentDemo
      */
     public void setProgram(String givenProgram) {
         givenProgram = program;
+        //here's a weird change. regress from this!
     }
-
+    
     /**
      * 
      * @return Returns program from data field
